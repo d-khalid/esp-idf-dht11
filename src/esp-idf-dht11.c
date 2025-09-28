@@ -1,4 +1,4 @@
-#include "idf-dht11.h"
+#include "esp-idf-dht11.h"
 #include "esp_log.h"
 
 #define DHT11_TAG "DHT11: "
